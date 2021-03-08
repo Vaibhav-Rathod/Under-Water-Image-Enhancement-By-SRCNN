@@ -3,4 +3,7 @@ An underwater image enhancement method and a corresponding image super-resolutio
 Image enhancement Technique.  
 Super-resolution Convolutional neural networks
 Retinex algorithm gamma correction. 
-Dark prior
+Dark prior.
+
+Further reading : Underwater Image Enhancement  Using SRCNN.pptx
+
