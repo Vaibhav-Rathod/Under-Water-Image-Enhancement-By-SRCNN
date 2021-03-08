@@ -6,10 +6,10 @@ An underwater image enhancement method and a corresponding image super-resolutio
 ### Retinex algorithm gamma correction. 
 ### Dark prior.
 
-Further reading : Underwater Image Enhancement  Using SRCNN.pptx
+## Further reading : Underwater Image Enhancement  Using SRCNN.pptx
 
-SRCNN Trained maodel : my_modelSRCNN.h5 
+## SRCNN Trained model : my_modelSRCNN.h5 
 
 
-Refrence paper used to implement: Underwater2.pdf
+## Refrence paper used to implement: Underwater2.pdf
 
